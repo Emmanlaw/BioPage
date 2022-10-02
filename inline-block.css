@@ -1,0 +1,39 @@
+/* header */
+header {
+    background-color: gray;
+}
+h1 {
+    text-align: center;
+    text-shadow: 2px 2px black;
+    color: green;
+}
+ul {
+   text-align: center;
+   background-color: silver;
+}
+li {
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+    text-decoration: none;
+  }
+
+/* main */
+span {
+    background-color: gold
+}
+.inline {
+    border: 3px solid black;
+    padding: 10px;
+    display: inline;
+}
+.block {
+    border: 3px solid black;
+    padding: 10px;
+    display: block;
+}
+.inline-block {
+    border: 3px solid black;
+    padding: 10px;
+    display: inline-block;
+}
